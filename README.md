@@ -1,5 +1,5 @@
 # electrical-energy-recovery
-Management and Recovery of Electrical Energy
+Electrical Energy Recovery System with Photovoltaic Panel powered by Supercapacitors
 
 Réalisé par CASTELLANETA Andrea et CROUARD Christale
 
